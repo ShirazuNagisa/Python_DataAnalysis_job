@@ -1,0 +1,13 @@
+# 构建与自检脚本，不属于提交内容
+/tools
+
+# 老师下发的任务清单原件
+*.pdf
+
+# notebook 运行时生成的数据产物（重新运行即可再生成）
+EXP01/exp01_data/
+
+# Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
